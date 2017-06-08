@@ -1,25 +1,19 @@
-# README
+# URL SHORTENER HEROKU
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+```
+As a user YOU CAN pass a url as a paramater in a form and receive a shortened url as a random string.
 
-Things you may want to cover:
+When visiting this shortened url YOU WILL be redirected to the original url.
+```
 
-* Ruby version
+### Ruby version used: 
+* ruby "2.4.1"
 
-* System dependencies
+### Rails version used:
+* gem 'rails', '~> 5.1.1'
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+### pg used:
+* gem 'pg', '~> 0.20.0'
 
 * ...
-# Url-Shortener-Heroku
+
