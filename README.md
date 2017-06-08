@@ -1,8 +1,9 @@
 # URL SHORTENER HEROKU
 
 ```
-This README would normally document whatever steps are necessary to get the
-application up and running.
+As a user YOU CAN pass a url as a paramater in a form and receive a shortened url as a random string.
+
+When visiting this shortened url YOU WILL be redirected to the original url.
 ```
 
 ### Ruby version used: 
